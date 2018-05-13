@@ -150,7 +150,7 @@ small{font-size:80%;}
 {
 	position:absolute;
 	left:0px;right:0px;top:0px;height:26px;
-	background:url(img/darkNoiseTopBar.jpg) repeat-x bottom,url(img/darkNoise.jpg);
+	background:url(darkNoiseTopBar.jpg) repeat-x bottom,url(darkNoise.jpg);
 }
 #topBar>div
 {
@@ -182,7 +182,7 @@ small{font-size:80%;}
 {
 	position:absolute;
 	left:0px;right:0px;bottom:0px;height:102px;
-	background:linear-gradient(to right,rgba(0,0,0,0) 15%,rgba(0,0,0,0.75)),url(img/darkNoiseRightBar.jpg) repeat-y left,url(img/darkNoise.jpg);
+	background:linear-gradient(to right,rgba(0,0,0,0) 15%,rgba(0,0,0,0.75)),url(darkNoiseRightBar.jpg) repeat-y left,url(darkNoise.jpg);
 }
 
 
